@@ -13,7 +13,7 @@
   <img align="center" alt="Au-flask" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" />
   <img align="center" alt="Au-C" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" />
   <img align="center" alt="Au-Postgres" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" />
-  <img align="right" img height="180" alt="fox" src="https://media.giphy.com/media/VTtANKl0beDFQRLDTh/giphy.gif">
+  <img align="right" img height="180" alt="fox" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif">
  </div>
   
  ##
