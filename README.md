@@ -2,9 +2,10 @@
 <div style="display: inline_block" align="center">
   <a href="https://github.com/AugustoMonteiro">
   <img height="150em" src="https://github-readme-stats.vercel.app/api?username=AugustoMonteiro&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AugustoMonteiro&layout=compact&langs_count=7&theme=dark "/>
+
   </a>
 </div>
+
 <div style="display: inline_block"><br>
   <img align="center" alt="Au-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Au-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
@@ -16,7 +17,7 @@
   <img align="right" img height="180" alt="fox" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif">
  </div>
   
- ##
+
   
 <div> 
  
